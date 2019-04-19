@@ -20,7 +20,7 @@
 -->
 # Release Notes
 
-### 3.1.0-dev (Unreleased)
+### 3.1.0 (Apr 19, 2019)
 * CB-7179 (iOS): Add support to optionally use WKWebView for iOS
 
 ### 3.0.0 (Apr 12, 2018)
